@@ -1,0 +1,14 @@
+{
+  "name": "travel_on_two_location",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan Shabsove",
+  "license": "ISC",
+  "dependencies": {
+    "pryjs": "^1.0.3"
+  }
+}
